@@ -1,1 +1,1 @@
-# machine_learning_projects
+# This is the repository with solutions to some practical machine learning problems.
